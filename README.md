@@ -49,6 +49,7 @@ ou
 - cd "iphone 17"
 npm run dev
 
+--- 
 
-Ou acessar diretamente pelo link do GitHubPages abaixo:
-🔗 []
+## Screenshots
+<img width="1898" height="963" alt="image" src="https://github.com/user-attachments/assets/edb05dcd-effb-4107-a079-7785deb1c6b2" />
