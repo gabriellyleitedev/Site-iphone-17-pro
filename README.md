@@ -39,6 +39,10 @@ Durante o desenvolvimento, aprendi a:
 
 ---
 
+
+## Screenshots
+<img width="1898" height="963" alt="image" src="https://github.com/user-attachments/assets/edb05dcd-effb-4107-a079-7785deb1c6b2" />
+
 ## Como Visualizar
 
 Para rodar o projeto localmente, execute os seguintes comandos no seu terminal:
@@ -58,5 +62,3 @@ npm run dev
 
 --- 
 
-## Screenshots
-<img width="1898" height="963" alt="image" src="https://github.com/user-attachments/assets/edb05dcd-effb-4107-a079-7785deb1c6b2" />
