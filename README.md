@@ -1,4 +1,4 @@
-# Site-iPhone-17-Landing-Page-em-React-Tailwind
+# Site iphone 17 pro 
 
 Projeto de um site do iPhone 17 Pro desenvolvido para aprendizado real de React, TailwindCSS e boas práticas modernas de front-end.
 Explorei conceitos de componentes, estilização avançada, animações e responsividade — criando uma experiência premium inspirada no site oficial da Apple.
