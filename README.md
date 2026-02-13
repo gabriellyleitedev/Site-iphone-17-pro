@@ -17,7 +17,7 @@ Explorei conceitos de componentes, estilização avançada, animações e respon
 ---
 
 ## Funcionalidades
-- Menu responsivocom animações de entrada
+- Menu responsivo com animações de entrada
 - Hero interativo apresentando o iPhone 17
 - Sessões com foco em design, cores, desempenho e câmera
 - Animações suaves utilizando Framer Motion
@@ -41,12 +41,19 @@ Durante o desenvolvimento, aprendi a:
 
 ## Como Visualizar
 
-Você pode rodar o projeto localmente no terminal usando:
+Para rodar o projeto localmente, execute os seguintes comandos no seu terminal:
 
-- npm install
-npm run dev
-ou
-- cd "iphone 17"
+```bash
+# 1. Clone o repositório
+git clone [https://github.com/gabriellyleitedev/Site-iPhone-17-Landing-Page-em-React-Tailwind](https://github.com/gabriellyleitedev/Site-iPhone-17-Landing-Page-em-React-Tailwind)
+
+# 2. Acesse a pasta
+cd Site-iPhone-17-Landing-Page-em-React-Tailwind
+
+# 3. Instale as dependências
+npm install
+
+# 4. Inicie o servidor
 npm run dev
 
 --- 
